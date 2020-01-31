@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "{D6377443-47A9-0DA6-8594-72878DC12533}",
+  "Category": "",
+  "Description": "Source Engine inspired movement, by MarkJGx, heavily based off Defragr by WiggleWizard.",
+  "Modules": [
+    {
+      "Name": "SourceMovement",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
